@@ -3,7 +3,7 @@ Mohsen</a></h1>
 <h3 align="center">A passionate Mobile App developer from Algeria 🇩🇿</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on Flutter Projects<br>👯 I have more than 2 years in developing solutions through mobile applications using flutter<br>🤝 I’m available for freelancing.<br>🌱 I’m currently learning about building stable backend with python<br>💬 Ask me about Flutter and Software Engineering<br>⚡ How to reach me ghalemmohsen@gmail.com
+🔭 I’m currently working on Flutter Projects<br>👯 I have more than 2 years in developing solutions through mobile applications using flutter<br>🤝 I’m available for freelancing.<br>🌱 I’m currently learning about building stable backend with python<br>💬 Ask me about Flutter and Software Engineering<br>⚡ How to reach me 
 
 
 ## 🌐 Socials:
