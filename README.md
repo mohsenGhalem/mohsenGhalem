@@ -15,26 +15,14 @@
 
 
 ### Glad to see you here!  
-Passionate and skilled software developer with a Bachelor's degree in Computer Science from the University of Abou Bekr Belkaïd Tlemcen. Experienced in mobile application development, particularly using Flutter, and well-versed in a range of programming languages including Java, Python, and JavaScript. Proven track record of problem-solving and delivering high-quality code through internships and competitions. Current organizer for the Google Developer Group (GDG) Tlemcen, fostering community engagement and tech innovation. Eager to leverage my technical expertise and leadership skills to drive impactful projects in a dynamic work environment.  
+I am a software developer passionate about building scalable digital solutions that enhance user experiences and drive business growth. With a strong background in web and mobile development, I specialize in designing and implementing efficient, high-performance applications.
+
+My expertise spans across software architecture, database management, and system optimization, allowing me to develop robust and reliable platforms. Currently, I am working on innovative SaaS and marketplace solutions, leveraging technology to solve real-world problems.
+
+📩 Let’s connect and explore how technology can shape the future! 
   
 
 <br/>  
-
-
-## Summary  
-
-- 🔭 I’m currently working on [Coneduc](https://coneduc.com/)  
-  
-
-- 🌱 I’m currently learning Green Digital skills  
-  
-
-- ❓ Ask me about anything related to Software engineering  
-  
-
-- ⚡ Fun fact: I keep night shift swithed on at all times   
-
-
 
 
 
@@ -98,22 +86,15 @@ Passionate and skilled software developer with a Bachelor's degree in Computer S
 ## Github Stats  
 <table width="100%"><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mohsenGhalem&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=mohsenGhalem&show_icons=true&count_private=true&hide_border=true&theme=radical" align="left" style="width: 100%" />
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohsenGhalem&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohsenGhalem&hide_border=true&layout=compact&theme=radical" align="left" style="width: 100%" />
 
 </td></tr></table>  
 
 <br/>  
 
-  
 
-<br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=mohsenGhalem&&style=flat-square)  
-  
-
-<br/>  
 
