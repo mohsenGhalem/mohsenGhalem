@@ -83,18 +83,4 @@ My expertise spans across software architecture, database management, and system
 <br/>  
 
 
-## Github Stats  
-<table width="100%"><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=mohsenGhalem&show_icons=true&count_private=true&hide_border=true&theme=radical" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohsenGhalem&hide_border=true&layout=compact&theme=radical" align="left" style="width: 100%" />
-
-</td></tr></table>  
-
-<br/>  
-
-
 
